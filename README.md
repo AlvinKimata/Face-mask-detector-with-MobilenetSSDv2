@@ -5,4 +5,4 @@ For this demonstration, I have used the Mobilenet single-shot detector model as 
 training and performing real-time inference on a laptop or computer with low specifications.
 
 The accompanying python script demonstrates how to perform real-time inference with the trained model.
-![output](./output.mp4)
+![output](output.mp4)
